@@ -4,9 +4,6 @@
 
 **AI Skill** - 使用 Lightpanda 超高性能无头浏览器驱动 Playwright 进行网页自动化、数据抓取、网页测试的Skill。
 
-[![Skill Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
-[![Author](https://img.shields.io/badge/author-auto--generated-lightgrey.svg)]()
-
 🐼 专为 AI 编程助手准备的 Lightpanda + Playwright 集成技能
 
 </div>
