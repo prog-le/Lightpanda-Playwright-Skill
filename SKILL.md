@@ -6,7 +6,6 @@ description: >
   CDP浏览器、lightpanda playwright、playwright cdp、网页自动化、页面截图抓取、
   用lightpanda、lightpanda跑playwright、playwright连接lightpanda
 version: "1.0.0"
-author: auto-generated from https://lightpanda.io/docs/
 read_when:
   - 用户需要用 Playwright 做网页自动化或数据抓取
   - 用户提到 lightpanda、无头浏览器
